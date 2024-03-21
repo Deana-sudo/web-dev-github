@@ -1,0 +1,17 @@
+[33mcommit f149d6bef622a39b3ce89d5b4a20e6bbc6e58633[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m)[m
+Author: Deana-sudo <extremelxp7@gmail.com>
+Date:   Fri Mar 22 02:16:22 2024 +0900
+
+    added new feature
+
+[33mcommit a4f39a62a4d60c363a2e44ed1facc9847a399ad9[m[33m ([m[1;32mmain[m[33m)[m
+Author: Deana-sudo <extremelxp7@gmail.com>
+Date:   Fri Mar 22 02:04:00 2024 +0900
+
+    changed test.txt and added second-commit.txt
+
+[33mcommit 62844b02b529655207d0d594613479a8fd212407[m
+Author: Deana-sudo <extremelxp7@gmail.com>
+Date:   Fri Mar 22 01:54:29 2024 +0900
+
+    added text.txt file
